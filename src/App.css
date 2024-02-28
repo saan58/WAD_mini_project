@@ -101,9 +101,6 @@ body {
     display: block;
 }
 
-
-/* Responsive styles */
-
 @media (max-width: 768px) {
     .sidebar {
         width: 0;
